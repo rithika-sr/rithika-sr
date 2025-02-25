@@ -41,19 +41,6 @@ Detail-oriented and innovative, I excel at uncovering patterns in data and lever
 
 ---
 
-### 🚀 Featured Projects
-
-#### Advanced Healthcare Data Management & Predictive Analytics
-- Built a healthcare system with predictive analytics and visualizations to enhance patient outcomes and efficiency.
-- Engineered a hybrid database system using MySQL and MongoDB for structured and unstructured data storage.
-- Designed 15+ interactive visualizations using Python and Tableau, transforming 93K+ data points into actionable insights.
-
-#### Integrating Active Contours and Decision Trees for Systematic Hemorrhage Detection
-- Developed a medical imaging system for detecting and categorizing hemorrhages in CT scans.
-- Achieved 92% classification accuracy using Active Contours and decision tree classifiers.
-- Implemented advanced segmentation techniques like the watershed algorithm and morphological operations.
-
----
 
 ### Connect with Me 🌐
 
