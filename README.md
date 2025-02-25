@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Rithika Sankar Rajeswari
 
-### 📊 Data Analyst | 🧠 Machine Learning Enthusiast | 🛠️ Data Engineer | 📈 Data Visualization Expert  
+### 📊 Data Analyst | 🛠️ Data Engineer | 📈 Data Visualization Expert | 🧠 Machine Learning Enthusiast |  
 I am passionate about transforming raw data into actionable insights, building predictive models, and creating impactful visualizations. With a strong foundation in data analytics, machine learning, and cloud technologies, I strive to solve complex problems and deliver data-driven solutions.
 
 ---
