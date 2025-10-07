@@ -47,7 +47,6 @@ Detail-oriented and innovative, I excel at uncovering patterns in data and lever
 - **LinkedIn:** [Rithika Sankar Rajeswari](https://www.linkedin.com/in/rithika-s-r)
 - **Email:** [sankarrajeswari.r@northeastern.edu](mailto:sankarrajeswari.r@northeastern.edu)
 - **GitHub:** [GitHub Profile](https://github.com/rithika-sr)
-- **Portfolio:** [Portfolio Link](https://sites.google.com/view/rithikasankarrajeswari/home)
 
 ---
 
