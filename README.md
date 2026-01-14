@@ -1,4 +1,4 @@
-# Hi, I'm Rithika Sankar Rajeswari 👋
+# Hi, I'm Rithika 👋
 
 **🎓 Graduate Student | Data Science • Machine Learning • LLMs • Data Engineering**
 
@@ -20,7 +20,7 @@ I care deeply about clean design, strong fundamentals, and real-world impact —
 
 ---
 
-## 🧠 About Me
+## 🙋🏻‍♀️ About Me
 
 I'm a curious and driven problem solver who learns quickly and loves tackling complex challenges. My background spans data analytics, engineering, and applied machine learning,  and I'm genuinely passionate about turning messy problems into clean, robust solutions. This approach allows me to:
 
