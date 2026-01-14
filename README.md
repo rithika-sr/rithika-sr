@@ -1,6 +1,6 @@
 # Hi, I'm Rithika 👋
 
-**🎓 Graduate Student | Data Science • Machine Learning • LLMs • Data Engineering**
+**🎓 Graduate Student | Data Science • Machine Learning • GenAI • LLMs • Data Engineering**
 
 I'm a Master's student in **Data Analytics Engineering** at **Northeastern University**, deeply focused on building intelligent, data-driven systems — from scalable data pipelines to machine learning models and modern LLM-powered applications.
 
