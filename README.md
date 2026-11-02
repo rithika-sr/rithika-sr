@@ -1,5 +1,4 @@
-<!-- ===================== HEADER ===================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:EDE9FE,50:C4B5FD,100:7C3AED&height=200&section=header&text=Rithika%20Sankar%20Rajeswari&fontSize=46&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=turning%20messy%20data%20into%20decisions%20%26%20AI%20that%20works&descAlignY=58&descSize=17" width="100%" alt="header"/>
+<img src="./assets/header.svg" width="100%" alt="Rithika Sankar Rajeswari"/>
 
 <div align="center">
 
@@ -48,89 +47,105 @@ class Rithika:
 <tr>
 <td width="50%" valign="top">
 
-**🔬 Data Science**<br/>
-<sub>Experiment design, A/B testing, hypothesis testing, statistical modeling, clustering (UMAP + HDBSCAN) on real production data.</sub>
+<h3>🔬 Data Science</h3>
+
+I design experiments that answer the question the business is *actually* asking. That means A/B tests, hypothesis testing and statistical models, plus unsupervised methods when the data has no labels. At Intuitive, I clustered 1,100+ real user queries with embeddings, UMAP and HDBSCAN to surface hidden product gaps.
+
+<img src="https://img.shields.io/badge/A%2FB_Testing-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Statistics-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Clustering-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-2E1065?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-**🤖 ML / AI Engineering**<br/>
-<sub>RAG systems and evaluation frameworks, LLM-as-judge, fine-tuning LLaMA, agentic workflows, MLflow + drift monitoring.</sub>
+<h3>🤖 ML / AI Engineering</h3>
+
+I build RAG systems *and* the evaluation frameworks that prove they work: synthetic test sets, precision/recall and LLM-as-judge scoring. I've fine-tuned LLaMA, built agentic workflows, and wired up MLflow and drift monitoring so models stay healthy after launch, not just on demo day.
+
+<img src="https://img.shields.io/badge/RAG-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/LLM_Evaluation-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic_AI-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/MLOps-2E1065?style=flat-square"/>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**🏗️ Data Engineering**<br/>
-<sub>PySpark + AWS Glue + Airflow pipelines, schema validation, data quality checks, field-level masking for sensitive data.</sub>
+<h3>🏗️ Data Engineering</h3>
+
+I build pipelines teams can trust, using PySpark, AWS Glue and Airflow, with schema validation and data-quality checks built in from the start. At Medlaunch, this cut data-related pipeline failures by **30%**, and field-level masking kept sensitive healthcare data compliant.
+
+<img src="https://img.shields.io/badge/ETL%2FELT-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Quality-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Modeling-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Governance-2E1065?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
 
-**📊 Analytics & BI**<br/>
-<sub>SQL across Snowflake, BigQuery and PostgreSQL, KPI frameworks, interactive dashboards, turning findings into stakeholder decisions.</sub>
+<h3>📊 Analytics & BI</h3>
+
+I write SQL across Snowflake, BigQuery and PostgreSQL, define KPIs that mean something, and build dashboards people actually open. My favorite part is the last step: turning an analysis into a clear recommendation that product, engineering or client teams can act on.
+
+<img src="https://img.shields.io/badge/SQL-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/KPIs_%26_Metrics-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Dashboards-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Storytelling-2E1065?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-### `04` / where I've been
+### `04` / experience
 
-| | Role | What I did |
+| When | Where | What I did |
 | :--- | :--- | :--- |
-| 🏛️ **Northeastern** | Teaching Assistant · 2026– | Help grad students debug, evaluate and interpret deep learning models |
-| 🤖 **Intuitive Surgical** | AI/ML Data Scientist · 2026 | Built a RAG evaluation framework; clustered 1,100+ production queries to find product gaps |
-| 🏥 **Medlaunch Concepts** | Data Engineer · 2026 | Built PySpark/AWS Glue pipelines; cut data-related failures by 30% |
-| 📡 **Flare Innovations** | Data Science Intern · 2021–22 | Statistical analysis of sensor telemetry; KPI dashboards for stakeholders |
+| **Sep 2026 – Present** | 🏛️ **Northeastern University**<br/><sub>Teaching Assistant · Deep Learning for AI</sub> | Guide grad students through model development, error analysis and evaluation of deep learning architectures |
+| **Jun – Aug 2026** | 🤖 **Intuitive Surgical**<br/><sub>AI/ML Data Scientist · Sunnyvale, CA</sub> | Built a RAG evaluation framework; clustered 1,100+ production queries to uncover product gaps and inform the AI roadmap |
+| **Jan – May 2026** | 🏥 **Medlaunch Concepts**<br/><sub>Data Engineer · Clearwater, FL</sub> | Built PySpark + AWS Glue pipelines with automated schema validation; cut data-related failures by 30% |
+| **Aug 2021 – Aug 2022** | 📡 **Flare Innovations**<br/><sub>Data Science Intern · India</sub> | Ran statistical analysis on sensor telemetry; built Streamlit KPI dashboards for stakeholders |
 
-### `05` / featured projects
+### `05` / currently building
 
-<table>
-<tr>
-<td width="50%" valign="top">
-
-**👗 Stella · AI fashion stylist**<br/>
-<sub>RAG chatbot that matches natural-language requests to real product inventory, with fine-tuned LLaMA and semantic search.</sub>
-
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LLaMA-7C3AED?style=flat-square&logo=meta&logoColor=white"/>
-<img src="https://img.shields.io/badge/RAG-A78BFA?style=flat-square"/>
-
-</td>
-<td width="50%" valign="top">
-
-**📡 Charlie · telemetry & A/B testing engine**<br/>
-<sub>Streaming pipeline over millions of events, powering online A/B tests, forecasting and drift detection. 🥉 Google MLOps Expo.</sub>
-
-<img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=googlecloud&logoColor=white"/>
-<img src="https://img.shields.io/badge/MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white"/>
-
-</td>
-</tr>
-</table>
-
-### `06` / toolbox
-
-| | |
-| :--- | :--- |
-| **Languages** | <img src="https://skillicons.dev/icons?i=python,r,postgres&theme=dark" height="32"/> &nbsp; Python · SQL · R |
-| **AI / ML** | <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn&theme=dark" height="32"/> &nbsp; LangChain · Hugging Face · MLflow · RAG eval |
-| **Data Engineering** | <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white"/> <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white"/> &nbsp; AWS Glue · ETL/ELT · data modeling |
-| **Analytics & BI** | <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white"/> <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white"/> &nbsp; Pandas · A/B testing · dashboards |
-| **Cloud & DevOps** | <img src="https://skillicons.dev/icons?i=aws,gcp,docker,git,githubactions,fastapi&theme=dark" height="32"/> |
-
-### `07` / activity
+> **🔎 Agentic Retrieval Lab**: a hands-on study of how retrieval really behaves, inspired by Perplexity's Q2D-Web paper. It includes a mini query-to-document benchmark, a BM25-hybrid vs. all-neural fusion test, and a retrieval failure analyzer.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&background=00000000&hide_border=true&ring=8B5CF6&fire=A78BFA&currStreakLabel=8B5CF6&sideLabels=9CA3AF&dates=9CA3AF&currStreakNum=8B5CF6&sideNums=8B5CF6" height="160" alt="streak"/>
+<a href="https://github.com/rithika-sr?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_my_projects_→-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake-dark.svg" />
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/github-snake.svg" />
-</picture>
+<sub>📌 pinned repos below: one for each kind of work I do</sub>
+
+</div>
+
+### `06` / toolbox
+
+<div align="center">
+
+<sub><b>── LANGUAGES & ANALYSIS ──</b></sub><br/>
+<img src="https://img.shields.io/badge/Python-1E1B2E?style=for-the-badge&logo=python&logoColor=3776AB"/>
+<img src="https://img.shields.io/badge/SQL-1E1B2E?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/R-1E1B2E?style=for-the-badge&logo=r&logoColor=276DC3"/>
+<img src="https://img.shields.io/badge/Pandas-1E1B2E?style=for-the-badge&logo=pandas&logoColor=E70488"/>
+<img src="https://img.shields.io/badge/NumPy-1E1B2E?style=for-the-badge&logo=numpy&logoColor=4DABCF"/>
+<img src="https://img.shields.io/badge/scikit--learn-1E1B2E?style=for-the-badge&logo=scikitlearn&logoColor=F7931E"/>
+
+<sub><b>── AI / ML ──</b></sub><br/>
+<img src="https://img.shields.io/badge/PyTorch-1E1B2E?style=for-the-badge&logo=pytorch&logoColor=EE4C2C"/>
+<img src="https://img.shields.io/badge/TensorFlow-1E1B2E?style=for-the-badge&logo=tensorflow&logoColor=FF6F00"/>
+<img src="https://img.shields.io/badge/Hugging_Face-1E1B2E?style=for-the-badge&logo=huggingface&logoColor=FFD21E"/>
+<img src="https://img.shields.io/badge/LangChain-1E1B2E?style=for-the-badge&logo=langchain&logoColor=white"/>
+<img src="https://img.shields.io/badge/MLflow-1E1B2E?style=for-the-badge&logo=mlflow&logoColor=0194E2"/>
+<img src="https://img.shields.io/badge/Claude_Code-1E1B2E?style=for-the-badge&logo=anthropic&logoColor=D97757"/>
+
+<sub><b>── DATA ENGINEERING ──</b></sub><br/>
+<img src="https://img.shields.io/badge/PySpark-1E1B2E?style=for-the-badge&logo=apachespark&logoColor=E25A1C"/>
+<img src="https://img.shields.io/badge/Airflow-1E1B2E?style=for-the-badge&logo=apacheairflow&logoColor=017CEE"/>
+<img src="https://img.shields.io/badge/Snowflake-1E1B2E?style=for-the-badge&logo=snowflake&logoColor=29B5E8"/>
+<img src="https://img.shields.io/badge/PostgreSQL-1E1B2E?style=for-the-badge&logo=postgresql&logoColor=4169E1"/>
+<img src="https://img.shields.io/badge/AWS_Glue-1E1B2E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+
+<sub><b>── ANALYTICS & BI ──</b></sub><br/>
+<img src="https://img.shields.io/badge/BigQuery-1E1B2E?style=for-the-badge&logo=googlebigquery&logoColor=669DF6"/>
+<img src="https://img.shields.io/badge/Streamlit-1E1B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
+<img src="https://img.shields.io/badge/Jupyter-1E1B2E?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
+
+<sub><b>── CLOUD & DEVOPS ──</b></sub><br/>
+<img src="https://img.shields.io/badge/AWS-1E1B2E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
+<img src="https://img.shields.io/badge/GCP-1E1B2E?style=for-the-badge&logo=googlecloud&logoColor=4285F4"/>
+<img src="https://img.shields.io/badge/Docker-1E1B2E?style=for-the-badge&logo=docker&logoColor=2496ED"/>
+<img src="https://img.shields.io/badge/Git-1E1B2E?style=for-the-badge&logo=git&logoColor=F05032"/>
+<img src="https://img.shields.io/badge/GitHub_Actions-1E1B2E?style=for-the-badge&logo=githubactions&logoColor=2088FF"/>
+<img src="https://img.shields.io/badge/FastAPI-1E1B2E?style=for-the-badge&logo=fastapi&logoColor=009688"/>
 
 </div>
 
@@ -140,4 +155,4 @@ class Rithika:
 <i>Good questions. Thoughtful experiments. Useful things.</i>
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:C4B5FD,100:EDE9FE&height=100&section=footer" width="100%" alt="footer"/>
+<img src="./assets/footer.svg" width="100%" alt=""/>
