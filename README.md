@@ -2,14 +2,14 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=8B5CF6&center=true&vCenter=true&width=600&lines=Data+Scientist;ML+%2F+AI+Engineer;Data+Engineer;Data+Analyst+%26+BI;Open+to+full-time+roles+%C2%B7+Jan+2027" alt="roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2500&pause=800&color=9D8AC2&center=true&vCenter=true&width=600&lines=Data+Scientist;ML+%2F+AI+Engineer;Data+Engineer;Data+Analyst+%26+BI;Open+to+full-time+roles+%C2%B7+Jan+2027" alt="roles"/>
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rithikasr/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="mailto:sankarrajeswari.r@northeastern.edu"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://scholar.google.com/citations?hl=en&user=8g7kV8UAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="https://drive.google.com/file/d/1NsJ-LZnl5t-RPJD-uQYFTJWs9fKf1LSe/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-C4B5FD?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+<a href="https://www.linkedin.com/in/rithikasr/"><img src="https://img.shields.io/badge/LinkedIn-8E7AB5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:sankarrajeswari.r@northeastern.edu"><img src="https://img.shields.io/badge/Email-9D8AC2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://scholar.google.com/citations?hl=en&user=8g7kV8UAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-B09FCF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
+<a href="https://drive.google.com/file/d/1NsJ-LZnl5t-RPJD-uQYFTJWs9fKf1LSe/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-C9BCE0?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 
 </div>
 
@@ -34,10 +34,10 @@ class Rithika:
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/1,100+-production_queries_analyzed-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/−30%25-pipeline_failures-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/7-peer--reviewed_papers-A78BFA?style=flat-square"/>
-<img src="https://img.shields.io/badge/🥉_3rd-Google_MLOps_Expo-C4B5FD?style=flat-square"/>
+<img src="https://img.shields.io/badge/1,100+-production_queries_analyzed-8E7AB5?style=flat-square"/>
+<img src="https://img.shields.io/badge/−30%25-pipeline_failures-9D8AC2?style=flat-square"/>
+<img src="https://img.shields.io/badge/7-peer--reviewed_papers-B09FCF?style=flat-square"/>
+<img src="https://img.shields.io/badge/🥉_3rd-Google_MLOps_Expo-C9BCE0?style=flat-square"/>
 
 </div>
 
@@ -51,7 +51,7 @@ class Rithika:
 
 I design experiments that answer the question the business is *actually* asking. That means A/B tests, hypothesis testing and statistical models, plus unsupervised methods when the data has no labels. At Intuitive, I clustered 1,100+ real user queries with embeddings, UMAP and HDBSCAN to surface hidden product gaps.
 
-<img src="https://img.shields.io/badge/A%2FB_Testing-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Statistics-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Clustering-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-2E1065?style=flat-square"/>
+<img src="https://img.shields.io/badge/A%2FB_Testing-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/Statistics-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/Clustering-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/NLP-5E4C7E?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -60,7 +60,7 @@ I design experiments that answer the question the business is *actually* asking.
 
 I build RAG systems *and* the evaluation frameworks that prove they work: synthetic test sets, precision/recall and LLM-as-judge scoring. I've fine-tuned LLaMA, built agentic workflows, and wired up MLflow and drift monitoring so models stay healthy after launch, not just on demo day.
 
-<img src="https://img.shields.io/badge/RAG-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/LLM_Evaluation-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic_AI-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/MLOps-2E1065?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/LLM_Evaluation-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/Agentic_AI-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/MLOps-5E4C7E?style=flat-square"/>
 
 </td>
 </tr>
@@ -71,7 +71,7 @@ I build RAG systems *and* the evaluation frameworks that prove they work: synthe
 
 I build pipelines teams can trust, using PySpark, AWS Glue and Airflow, with schema validation and data-quality checks built in from the start. At Medlaunch, this cut data-related pipeline failures by **30%**, and field-level masking kept sensitive healthcare data compliant.
 
-<img src="https://img.shields.io/badge/ETL%2FELT-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Quality-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Modeling-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Governance-2E1065?style=flat-square"/>
+<img src="https://img.shields.io/badge/ETL%2FELT-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Quality-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/Data_Modeling-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/Governance-5E4C7E?style=flat-square"/>
 
 </td>
 <td width="50%" valign="top">
@@ -80,7 +80,7 @@ I build pipelines teams can trust, using PySpark, AWS Glue and Airflow, with sch
 
 I write SQL across Snowflake, BigQuery and PostgreSQL, define KPIs that mean something, and build dashboards people actually open. My favorite part is the last step: turning an analysis into a clear recommendation that product, engineering or client teams can act on.
 
-<img src="https://img.shields.io/badge/SQL-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/KPIs_%26_Metrics-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Dashboards-2E1065?style=flat-square"/> <img src="https://img.shields.io/badge/Storytelling-2E1065?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/KPIs_%26_Metrics-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/Dashboards-5E4C7E?style=flat-square"/> <img src="https://img.shields.io/badge/Storytelling-5E4C7E?style=flat-square"/>
 
 </td>
 </tr>
@@ -101,7 +101,7 @@ I write SQL across Snowflake, BigQuery and PostgreSQL, define KPIs that mean som
 
 <div align="center">
 
-<a href="https://github.com/rithika-sr?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_my_projects_→-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
+<a href="https://github.com/rithika-sr?tab=repositories"><img src="https://img.shields.io/badge/Explore_all_my_projects_→-8E7AB5?style=for-the-badge&logo=github&logoColor=white" alt="All repositories"/></a>
 
 <sub>📌 pinned repos below: one for each kind of work I do</sub>
 
