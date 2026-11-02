@@ -154,7 +154,7 @@ I write SQL across Snowflake, BigQuery and PostgreSQL, define KPIs that mean som
 ---
 
 <div align="center">
-<b>Clean data. Honest metrics. AI that actually ships.</b>
+<b>while curious: learn(); build(); ship()</b>
 <br/>
 <sub>Hiring for a data or AI team? <a href="mailto:sankarrajeswari.r@northeastern.edu">Let's talk →</a></sub>
 </div>
