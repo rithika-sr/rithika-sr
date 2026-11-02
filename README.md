@@ -1,4 +1,4 @@
-<img src="./assets/header.svg" width="100%" alt="Rithika Sankar Rajeswari"/>
+<img src="./header.svg" width="100%" alt="Rithika Sankar Rajeswari"/>
 
 <div align="center">
 
@@ -6,10 +6,10 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/rithika-s-r"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://www.linkedin.com/in/rithikasr/"><img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sankarrajeswari.r@northeastern.edu"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://scholar.google.com/citations?hl=en&user=8g7kV8UAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-A78BFA?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="RESUME_LINK_HERE"><img src="https://img.shields.io/badge/Resume-C4B5FD?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
+<a href="https://drive.google.com/file/d/1NsJ-LZnl5t-RPJD-uQYFTJWs9fKf1LSe/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-C4B5FD?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 
 </div>
 
@@ -152,7 +152,9 @@ I write SQL across Snowflake, BigQuery and PostgreSQL, define KPIs that mean som
 ---
 
 <div align="center">
-<i>Good questions. Thoughtful experiments. Useful things.</i>
+<b>Clean data. Honest metrics. AI that actually ships.</b>
+<br/>
+<sub>Hiring for a data or AI team? <a href="mailto:sankarrajeswari.r@northeastern.edu">Let's talk →</a></sub>
 </div>
 
-<img src="./assets/footer.svg" width="100%" alt=""/>
+<img src="./footer.svg" width="100%" alt=""/>
