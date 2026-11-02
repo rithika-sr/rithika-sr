@@ -24,8 +24,8 @@ class Rithika:
     studying     = "M.S. Data Analytics Engineering @ Northeastern · Dec 2026"
     teaching     = "TA · Deep Learning for AI"
     open_to      = "full-time roles starting Jan 2027"
-    fuel         = "Coffee, Matcha, Good bunch of friends"
     fun_fact     = "ECE undergrad, so I still see every dataset as signal vs. noise"
+
     def debug(self, problem):
         return "it's always the data. it's literally always the data."
 ```
@@ -135,6 +135,8 @@ I write SQL across Snowflake, BigQuery and PostgreSQL, define KPIs that mean som
 <img src="https://img.shields.io/badge/AWS_Glue-1E1B2E?style=for-the-badge&logo=amazonwebservices&logoColor=FF9900"/>
 
 <sub><b>── ANALYTICS & BI ──</b></sub><br/>
+<img src="https://img.shields.io/badge/Power_BI-1E1B2E?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHJlY3QgeD0iMyIgeT0iMTIiIHdpZHRoPSI1IiBoZWlnaHQ9IjkiIHJ4PSIxIiBmaWxsPSIjRjJDODExIi8%2BPHJlY3QgeD0iOS41IiB5PSI3IiB3aWR0aD0iNSIgaGVpZ2h0PSIxNCIgcng9IjEiIGZpbGw9IiNGMkM4MTEiLz48cmVjdCB4PSIxNiIgeT0iMiIgd2lkdGg9IjUiIGhlaWdodD0iMTkiIHJ4PSIxIiBmaWxsPSIjRjJDODExIi8%2BPC9zdmc%2B"/>
+<img src="https://img.shields.io/badge/Tableau-1E1B2E?style=for-the-badge&logo=tableau&logoColor=E97627"/>
 <img src="https://img.shields.io/badge/BigQuery-1E1B2E?style=for-the-badge&logo=googlebigquery&logoColor=669DF6"/>
 <img src="https://img.shields.io/badge/Streamlit-1E1B2E?style=for-the-badge&logo=streamlit&logoColor=FF4B4B"/>
 <img src="https://img.shields.io/badge/Jupyter-1E1B2E?style=for-the-badge&logo=jupyter&logoColor=F37626"/>
