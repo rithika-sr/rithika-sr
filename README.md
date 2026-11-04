@@ -9,7 +9,6 @@
 <a href="https://www.linkedin.com/in/rithikasr/"><img src="https://img.shields.io/badge/LinkedIn-8E7AB5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 <a href="mailto:sankarrajeswari.r@northeastern.edu"><img src="https://img.shields.io/badge/Email-9D8AC2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://scholar.google.com/citations?hl=en&user=8g7kV8UAAAAJ"><img src="https://img.shields.io/badge/Google_Scholar-B09FCF?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar"/></a>
-<a href="https://drive.google.com/file/d/1NsJ-LZnl5t-RPJD-uQYFTJWs9fKf1LSe/view?usp=sharing"><img src="https://img.shields.io/badge/Resume-C9BCE0?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/></a>
 
 </div>
 
