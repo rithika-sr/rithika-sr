@@ -23,7 +23,8 @@ class Rithika:
     studying     = "M.S. Data Analytics Engineering @ Northeastern · Dec 2026"
     teaching     = "TA · Deep Learning for AI"
     open_to      = "full-time roles starting Jan 2027"
-    fun_fact     = "ECE undergrad, so I still see every dataset as signal vs. noise"
+    fun_fact     = "ECE undergrad, so I still see every dataset as signal vs. noise
+    fuel         =  Coffee, Matcha"
 
     def debug(self, problem):
         return "it's always the data. it's literally always the data."
